@@ -1,0 +1,7 @@
+﻿; Registers the language grammar files with Visual Studio
+[$RootKey$\TextMate\Repositories]
+"Ruby"="$PackageFolder$\Grammars"
+
+; SpecFlow
+[$RootKey$\ShellFileAssociations\.feature]
+"DefaultIconMoniker"="KnownMonikers.RBFileNode"
